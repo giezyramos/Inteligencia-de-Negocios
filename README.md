@@ -10,13 +10,11 @@ Este proyecto permite conectar fuentes de datos diversas y obtener visualizacion
 - Relación entre áreas, fechas y rendimiento
 
 ## 🖼 Captura del dashboard
-![relacion de tablas - informe de cartera y moras](https://github.com/user-attachments/assets/f6f980a7-37a0-47c3-b518-635bb9312f1b)
+![relaciones del BI ](https://github.com/user-attachments/assets/0f233c94-5528-4568-b9a9-f4674db693cf)
 
-![Informe de proyectos inmobiliarios 1](https://github.com/user-attachments/assets/8c8d177a-672c-43b2-ade8-4460922787a4)
+![Productividad y eficiencia del personal](https://github.com/user-attachments/assets/933a6245-2e03-4450-ab5e-884f48e31c79)
 
-![Historial de la cartera](https://github.com/user-attachments/assets/40f7d009-621b-4f9f-9033-c7fcace85dd6)
-
-![antiguedad de saldos](https://github.com/user-attachments/assets/be5b06ff-0769-41d5-8cee-ceaf1c6e0cff)
+![impacto de automatizacion y ahorro de costo BI](https://github.com/user-attachments/assets/7fafcd13-5cdf-4837-af3b-4a67a365a83d)
 
 
 ## ✍️ Autor
